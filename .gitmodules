@@ -1,0 +1,6 @@
+[submodule "accounts"]
+	path = accounts
+	url = git@github.com:800grad/accounts.git
+[submodule "config"]
+	path = config
+	url = git@github.com:800grad/config.git
