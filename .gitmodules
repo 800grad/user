@@ -7,3 +7,6 @@
 [submodule "data"]
 	path = data
 	url = git@github.com:800grad/data.git
+[submodule "pages"]
+	path = pages
+	url = git@github.com:800grad/pages.git
