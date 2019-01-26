@@ -13,3 +13,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = git@github.com:800grad/plugins.git
+[submodule "themes"]
+	path = themes
+	url = git@github.com:800grad/themes.git
