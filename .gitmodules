@@ -1,18 +1,18 @@
 [submodule "accounts"]
 	path = accounts
-	url = git@github.com:800grad/accounts.git
+	url = https://github.com/800grad/accounts.git
 [submodule "config"]
 	path = config
-	url = git@github.com:800grad/config.git
+	url = https://github.com/800grad/config.git
 [submodule "data"]
 	path = data
-	url = git@github.com:800grad/data.git
+	url = https://github.com/800grad/data.git
 [submodule "pages"]
 	path = pages
-	url = git@github.com:800grad/pages.git
+	url = https://github.com/800grad/pages.git
 [submodule "plugins"]
 	path = plugins
-	url = git@github.com:800grad/plugins.git
+	url = https://github.com/800grad/plugins.git
 [submodule "themes"]
 	path = themes
-	url = git@github.com:800grad/themes.git
+	url = https://github.com/800grad/themes.git
